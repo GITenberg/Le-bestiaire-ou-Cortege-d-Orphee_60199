@@ -1,0 +1,45 @@
+_repo: Le-bestiaire-ou-Cortege-d-Orphee_60199
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Dufy, Raoul
+    birthdate: 1877
+    deathdate: 1953
+    gutenberg_agent_id: '50841'
+    url: http://www.gutenberg.org/2009/agents/50841
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Raoul_Dufy
+    - https://fr.wikipedia.org/wiki/Raoul_Dufy
+creator:
+  author:
+    agent_name: Apollinaire, Guillaume
+    aliases:
+    - De Kostrowisky, Guillaume
+    - Kostrowitzky, Wilhelm Apollinaris de
+    - Apollinaris de Kostrowitzky, Wilhelm
+    - Kostrowisky, Guillaume de
+    birthdate: 1880
+    deathdate: 1918
+    gutenberg_agent_id: '6075'
+    url: http://www.gutenberg.org/2009/agents/6075
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Guillaume_Apollinaire
+    - https://en.wikipedia.org/wiki/Guillaume_Apollinaire
+description: ''
+gutenberg_bookshelf:
+- FR Nouveautés
+- FR Poésie
+gutenberg_issued: '2019-08-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60199'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Animals -- Poetry'
+- GITenberg
+title: 'Le bestiaire: ou, Cortège d''Orphée'
+url: http://www.gutenberg.org/ebooks/60199
